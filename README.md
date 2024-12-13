@@ -1,4 +1,4 @@
-# Ascalium Component Library
+# Moked Component Library
 
 Une bibliothèque de composants React développée avec **Vite**, **Storybook**, et intégrant **Material UI**,
 **TailwindCSS**, et diverses autres dépendances pour construire nos interfaces utilisateur modulaires.
